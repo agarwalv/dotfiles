@@ -1,0 +1,7 @@
+[user]
+	name = VarunAgarwal
+	email = agarwalv@seas.upenn.edu
+[color]
+	ui = true
+[push]
+	default = simple
